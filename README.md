@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zainab</h1>
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
-<h1 align="center">Hey 👋What's Up?</h1>
-
 
 ###
 
@@ -37,16 +35,7 @@
 ###
 
 
-###
-
 <br clear="both">
-
-
-
-
-
-
-
 
 
 ###
