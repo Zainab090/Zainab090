@@ -1,277 +1,345 @@
 <div align="center">
 
-# ZAINAB MURTAZA
-
-### `FULL STACK DEVELOPER`
-
-**I build interfaces. I engineer systems. I solve problems.**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:050505&height=190&section=header&text=ZAINAB%20MURTAZA&fontSize=42&fontColor=ffffff&fontAlignY=42&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+for+the+web.;Turning+ideas+into+products.;Always+learning.+Always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+things+that+actually+work.;Frontend+%E2%86%92+Backend+%E2%86%92+Database+%E2%86%92+AI;Turning+ideas+into+digital+products." />
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://vercel.com/zainis-projects-516c052d/portfolio-website)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:murzain123@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/zainab)
+<a href="https://vercel.com/zainis-projects-516c052d/portfolio-website">
+<img src="https://img.shields.io/badge/PORTFOLIO-%23050505?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=050505&color=050505"/>
+</a>
+
+<a href="mailto:murzain123@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-%23050505?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=050505&color=050505"/>
+</a>
+
+<a href="https://github.com/zainab">
+<img src="https://img.shields.io/badge/GITHUB-%23050505?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=050505&color=050505"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=zainab&label=PROFILE+VIEWS&color=00E5FF&style=flat-square"/>
 
 </div>
 
 ---
+
+<div align="center">
+
+### `01 — SYSTEM ONLINE`
+
+</div>
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
 │   $ whoami                                                   │
-│                                                              │
 │   zainab                                                     │
 │                                                              │
-│   $ cat role.txt                                             │
-│                                                              │
+│   $ role                                                     │
 │   Full Stack Developer                                       │
 │                                                              │
-│   $ cat status.txt                                           │
+│   $ location                                                 │
+│   Pakistan 🇵🇰                                                │
 │                                                              │
-│   ● BUILDING                                                 │
+│   $ status                                                   │
+│   ● ONLINE   •   BUILDING   •   LEARNING                    │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-## `01` — ABOUT
+<br>
 
-I'm a **Full Stack Developer** who enjoys building things from the ground up.
+> **I build digital products from the first line of code to the final deployment.**
 
-I work across the entire application lifecycle — **frontend, backend, databases, APIs, authentication, deployment and AI-powered features.**
+I'm a Full Stack Developer focused on creating **modern interfaces, reliable backend systems, database-driven applications and AI-powered experiences.**
 
-I care about more than making something work.
-
-I care about making it **clean, useful, maintainable and worth using.**
-
-```text
-IDEA
- ↓
-DESIGN
- ↓
-CODE
- ↓
-DEBUG
- ↓
-OPTIMIZE
- ↓
-SHIP
-```
+I like taking an idea that exists only in someone's head and turning it into something people can actually use.
 
 ---
-
-## `02` — STACK
-
-### FRONTEND
-
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Redux` `Tailwind CSS` `Bootstrap`
-
-### BACKEND
-
-`Node.js` `Express.js` `Python` `PHP` `REST APIs`
-
-### DATABASE
-
-`MongoDB` `PostgreSQL` `MySQL` `Firebase`
-
-### AI / DATA
-
-`Python` `Pandas` `AI APIs` `Data Processing` `AI Applications`
-
-### TOOLS
-
-`Git` `GitHub` `Postman` `Docker` `Figma` `VS Code` `Webpack`
-
----
-
-## `03` — WHAT I BUILD
-
-```text
-                 ┌─────────────────────┐
-                 │     DIGITAL IDEA    │
-                 └──────────┬──────────┘
-                            │
-              ┌─────────────┴─────────────┐
-              │                           │
-              ▼                           ▼
-       ┌──────────────┐           ┌──────────────┐
-       │   FRONTEND   │           │    BACKEND   │
-       │              │           │              │
-       │ UI / UX      │           │ APIs         │
-       │ React        │           │ Business     │
-       │ Next.js      │           │ Logic        │
-       └──────┬───────┘           └──────┬───────┘
-              │                           │
-              └─────────────┬─────────────┘
-                            ▼
-                    ┌──────────────┐
-                    │   DATABASE   │
-                    │              │
-                    │ MongoDB      │
-                    │ PostgreSQL   │
-                    │ MySQL        │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │    DEPLOY    │
-                    │              │
-                    │    🚀        │
-                    └──────────────┘
-```
-
-### I BUILD
-
-* Full Stack Web Applications
-* E-Commerce Platforms
-* Business Applications
-* REST APIs
-* Authentication Systems
-* Dashboards & Admin Panels
-* AI-Powered Applications
-* Data-Driven Applications
-* SaaS Concepts
-
----
-
-## `04` — CURRENTLY
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  [ BUILDING ]                                       │
-│                                                     │
-│  Full Stack Applications                            │
-│  AI-powered products                                │
-│  Real-world web solutions                           │
-│                                                     │
-│  [ LEARNING ]                                       │
-│                                                     │
-│  AI • Data Science • Cloud • System Design          │
-│                                                     │
-│  [ EXPLORING ]                                      │
-│                                                     │
-│  Better architecture.                               │
-│  Better performance.                                │
-│  Better products.                                   │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
-## `05` — ENGINEERING MINDSET
-
-```javascript
-const developer = {
-    curiosity: true,
-    learning: "continuous",
-    debugging: "part of the process",
-    coffee: "optional",
-    cleanCode: "important",
-    excuses: false
-};
-```
-
-### My rule:
-
-> **Don't just make it work. Understand why it works.**
-
----
-
-## `06` — THE LOOP
 
 <div align="center">
 
-### `BUILD → BREAK → DEBUG → LEARN → IMPROVE → SHIP`
+## `02 — MY WORLD`
 
 <br>
 
-`∞`
+### `FRONTEND`   →   `BACKEND`   →   `DATABASE`   →   `AI`   →   `DEPLOY`
+
+<br>
+
+`✦` **Design**    `✦` **Engineer**    `✦` **Integrate**    `✦` **Optimize**    `✦` **Ship**
 
 </div>
 
-Because every developer eventually discovers:
-
-```text
-"It works."
-
-        ↓
-
-"Wait..."
-
-        ↓
-
-"Why does it work?"
-
-        ↓
-
-"Don't touch it."
-
-        ↓
-
-"Let's refactor it."
-
-        ↓
-
-💀
-```
-
 ---
 
-## `07` — GITHUB
+## `03 — TOOLBOX`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zainab&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000" width="49%" />
+### ⚡ FRONTEND
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainab&layout=compact&hide_border=true&langs_count=8&title_color=ffffff&text_color=ffffff&bg_color=000000" width="49%" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=zainab&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="70%" />
+### ⚙️ BACKEND
 
-</div>
-
----
-
-## `08` — FIND ME
-
-<div align="center">
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/ZainabMurtaza09)
-[![Medium](https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@saaaaadiiii6776)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/profile.php?id=61554354705466)
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,php" />
 
 <br><br>
 
-### `murzain123@gmail.com`
+### 🗄️ DATABASE
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
+
+<br><br>
+
+### 🧠 AI / DATA
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br>
+
+`AI APIs` · `Pandas` · `Data Processing` · `AI Applications`
+
+<br><br>
+
+### 🛠️ TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode" />
 
 </div>
 
 ---
+
+<div align="center">
+
+## `04 — CURRENTLY BUILDING`
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### `◉ BUILD`
+
+**Full Stack Applications**
+
+Real-world applications with complete frontend, backend and database architecture.
+
+</td>
+
+<td width="50%">
+
+### `◉ EXPLORE`
+
+**AI + Software**
+
+Exploring ways to bring useful AI capabilities into everyday applications.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### `◉ LEARN`
+
+**Data Science**
+
+Going deeper into Python, data processing and intelligent systems.
+
+</td>
+
+<td width="50%">
+
+### `◉ LEVEL UP`
+
+**System Design**
+
+Learning how to make applications more scalable, reliable and maintainable.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `05 — THE DEVELOPER LOOP`
+
+<br>
+
+```text
+     ┌──────────┐
+     │   IDEA   │
+     └────┬─────┘
+          ↓
+     ┌──────────┐
+     │  DESIGN  │
+     └────┬─────┘
+          ↓
+     ┌──────────┐
+     │   CODE   │
+     └────┬─────┘
+          ↓
+     ┌──────────┐
+     │  BREAK   │
+     └────┬─────┘
+          ↓
+     ┌──────────┐
+     │  DEBUG   │
+     └────┬─────┘
+          ↓
+     ┌──────────┐
+     │  SHIP 🚀 │
+     └────┬─────┘
+          │
+          └──────────────→ REPEAT
+```
+
+</div>
+
+---
+
+## `06 — SOMEWHERE BETWEEN`
 
 <div align="center">
 
 ```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│   CODE IS NOT JUST WHAT I WRITE.              │
-│   IT'S HOW I THINK.                           │
-│                                               │
-└───────────────────────────────────────────────┘
+       ☕
+        \
+         \
+          💻 ──────────────── 🧠
+           \                  /
+            \                /
+             \              /
+              └──────┬─────┘
+                     │
+                     ▼
+                 🚀 BUILD
+```
+
+### `Curiosity × Code × Coffee = Something Interesting`
+
+</div>
+
+---
+
+<div align="center">
+
+## `07 — GITHUB ACTIVITY`
+
+<img src="https://github-readme-stats.vercel.app/api?username=zainab&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=00E5FF&text_color=FFFFFF&icon_color=8B5CF6&bg_color=050505" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainab&layout=compact&langs_count=8&hide_border=true&title_color=00E5FF&text_color=FFFFFF&bg_color=050505" width="48%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=zainab&hide_border=true&background=050505&ring=00E5FF&fire=8B5CF6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" width="70%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `08 — CONTRIBUTIONS`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainab&bg_color=050505&color=ffffff&line=00E5FF&point=8B5CF6&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `09 — WHAT'S NEXT?`
+
+<br>
+
+```text
+2026
+ │
+ ├── Full Stack Engineering
+ │
+ ├── AI Applications
+ │
+ ├── Data Science
+ │
+ ├── Cloud & Deployment
+ │
+ └── Bigger Problems
+          │
+          ▼
+        BUILD 🚀
+```
+
+</div>
+
+---
+
+## `10 — A FEW THINGS I BELIEVE`
+
+```text
+01  Good UI gets attention.
+02  Good architecture keeps it running.
+03  Good products solve real problems.
+04  Good developers never stop learning.
 ```
 
 <br>
 
-### `Thanks for visiting. Now go build something.`
+<div align="center">
+
+### `Build something. Break something. Learn something.`
+
+### `Then build it better.`
+
+</div>
+
+---
+
+<div align="center">
+
+## `11 — FIND ME`
 
 <br>
 
-`© Zainab Murtaza`
+<a href="https://x.com/ZainabMurtaza09">
+<img src="https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@saaaaadiiii6776">
+<img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61554354705466">
+<img src="https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<br><br>
+
+`murzain123@gmail.com`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:050505&height=130&section=footer"/>
+
+### `Thanks for stopping by.`
+
+**The next commit is probably already loading...**
 
 </div>
