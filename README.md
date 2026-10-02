@@ -1,227 +1,110 @@
-<!-- ========================= -->
-
-<!--        HERO / HEADER      -->
-
-<!-- ========================= -->
+<h1 align="center">Zainab</h1>
+<h3 align="center">Full Stack Developer · MERN Stack · Pakistan</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=ZAINAB&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=62&descSize=16&color=0:000000,100:111111" width="100%"/>
+  Building scalable, user-focused web applications with MongoDB, Express, React and Node.js.<br/>
+  Currently expanding into AI and Data Science.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+clean+interfaces.;Engineering+scalable+web+applications.;Turning+ideas+into+real+products.;Full+Stack+Developer+%7C+Pakistan" />
+  <a href="https://vercel.com/zainis-projects-516c052d/portfolio-website"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:murzain123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://medium.com/@saaaaadiiii6776"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://x.com/ZainabMurtaza09"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.facebook.com/profile.php?id=61554354705466"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/●_AVAILABLE_FOR_BUILDING-FFFFFF?style=flat-square&labelColor=000000&color=FFFFFF" />
-  <img src="https://komarev.com/ghpvc/?username=zainab&style=flat-square&color=000000&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=zainab&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
-<br/>
+---
 
-<!-- ========================= -->
+## 👩‍💻 About Me
 
-<!--          IDENTITY         -->
+I'm a full stack developer who enjoys turning ideas into polished, production-ready web applications. I work across the entire stack, from designing database schemas and REST APIs to crafting responsive, accessible interfaces.
 
-<!-- ========================= -->
+| | |
+|---|---|
+| 🔭 **Currently working on** | MERN stack projects |
+| 🌱 **Currently learning** | AI and Data Science |
+| 👯 **Open to collaborate on** | Web applications |
+| 🤝 **Looking for help with** | Backend scaling |
+| 💬 **Ask me about** | MongoDB, React |
+| 📝 **Writing** | Regular articles on [Medium](https://medium.com/@saaaaadiiii6776) |
+| ⚡ **Fun fact** | Debugging is fun |
 
-<h2 align="center">ABOUT</h2>
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Materialize](https://img.shields.io/badge/Materialize-EE6E73?style=flat-square&logo=materialdesign&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Languages & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VuePress](https://img.shields.io/badge/VuePress-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+Explore my full collection of work in the **[Portfolio →](https://vercel.com/zainis-projects-516c052d/portfolio-website)**
+
+<!--
+Add your best 3 projects here, for example:
+
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **Project Name** | One-line description of what it does and the problem it solves | React, Node.js, MongoDB | [Live](#) · [Code](#) |
+-->
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <samp>
-    I build modern web applications from frontend to backend.<br/>
-    I care about clean interfaces, useful products, scalable architecture<br/>
-    and turning ideas into something people can actually use.
-  </samp>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zainab&show_icons=true&locale=en&hide_border=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainab&layout=compact&locale=en&hide_border=true" alt="Top languages"/>
 </p>
 
-<br/>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FRONTEND-FFFFFF?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/BACKEND-FFFFFF?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/DATABASE-FFFFFF?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/CLOUD-FFFFFF?style=for-the-badge&labelColor=000000" />
-</p>
+## 🤝 Let's Connect
 
-<br/>
+I'm always happy to talk about web development, collaborations, or backend scaling challenges.
 
-<!-- ========================= -->
+📫 **Email:** [murzain123@gmail.com](mailto:murzain123@gmail.com)
+✍️ **Articles:** [medium.com/@saaaaadiiii6776](https://medium.com/@saaaaadiiii6776)
 
-<!--       LIVE BUILDING       -->
-
-<!-- ========================= -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=520&lines=%3E+INITIALIZING+DEVELOPER_MODE;>%20BUILDING...;>%20TESTING...;>%20DEPLOYING...;>%20SYSTEM_READY" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BUILD-●-00E5FF?style=flat-square&labelColor=050505" />
-  <img src="https://img.shields.io/badge/CODE-●-FFFFFF?style=flat-square&labelColor=050505" />
-  <img src="https://img.shields.io/badge/SHIP-●-A78BFA?style=flat-square&labelColor=050505" />
-</p>
-
-<br/>
-
-<!-- ========================= -->
-
-<!--            STACK          -->
-
-<!-- ========================= -->
-
-<h2 align="center">TECH STACK</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mongodb,mysql,postgresql" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,vercel,figma,postman" />
-</p>
-
-<br/>
-
-<!-- ========================= -->
-
-<!--       CURRENTLY BUILDING  -->
-
-<!-- ========================= -->
-
-<h2 align="center">CURRENTLY BUILDING</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Applications;AI-powered+experiences;Scalable+backend+systems;Interactive+developer+experiences" />
-</p>
-
-<br/>
-
-<!-- ========================= -->
-
-<!--           PROJECTS        -->
-
-<!-- ========================= -->
-
-<h2 align="center">SELECTED WORK</h2>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 E-Commerce
-
-Modern commerce experiences using Next.js, React, Sanity and full-stack APIs.
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚡ Task Management
-
-Full-stack task management with authentication, database integration and modern UI.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Applications
-
-AI-powered applications combining modern interfaces with APIs and backend systems.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 Client Projects
-
-Production-focused websites and applications designed around real business requirements.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ========================= -->
-
-<!--       CONTRIBUTIONS       -->
-
-<!-- ========================= -->
-
-<h2 align="center">ACTIVITY</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zainab&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00E5FF&area=true&hide_border=true" width="95%"/>
-</p>
-
-<br/>
-
-<!-- ========================= -->
-
-<!--           STATS           -->
-
-<!-- ========================= -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zainab&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00E5FF&ring_color=A78BFA" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainab&hide_border=true&background=000000&ring=00E5FF&fire=A78BFA&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" height="165"/>
-</p>
-
-<br/>
-
-<!-- ========================= -->
-
-<!--       DEVELOPER LOOP      -->
-
-<!-- ========================= -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1800&pause=700&color=FFFFFF&center=true&vCenter=true&width=500&lines=IDEA+%E2%86%92+DESIGN+%E2%86%92+CODE+%E2%86%92+TEST+%E2%86%92+DEPLOY;LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+FIX+%E2%86%92+REPEAT" />
-</p>
-
-<br/>
-
-<!-- ========================= -->
-
-<!--          CONNECT          -->
-
-<!-- ========================= -->
-
-<h2 align="center">LET'S CONNECT</h2>
-
-<p align="center">
-  <a href="https://github.com/zainab">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-  </a>
-  <a href="https://x.com/ZainabMurtaza09">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
-  </a>
-  <a href="mailto:murzain123@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
-  </a>
-  <a href="https://vercel.com/zainis-projects-516c052d/portfolio-website">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
-  </a>
-</p>
-
-<br/>
-
-<!-- ========================= -->
-
-<!--           FOOTER          -->
-
-<!-- ========================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111111,100:000000" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=3000&pause=1500&color=888888&center=true&vCenter=true&width=450&lines=keep+building.;keep+learning.;keep+shipping." />
-</p>
+<p align="center"><i>Thanks for stopping by! ⭐ If you like my work, consider starring a repo.</i></p>
