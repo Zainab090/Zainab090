@@ -1,175 +1,324 @@
-<h1 align="center">Hi 👋, I'm Zainab</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • Web Applications • Backend Systems • AI
-</h3>
+# `ZAINAB.MURTAZA`
 
-<p align="center">
-  <a href="https://github.com/zainab">
-    <img src="https://komarev.com/ghpvc/?username=zainab&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
+### FULL STACK DEVELOPER · BUILDER · PROBLEM SOLVER
 
----
+<br>
 
-## 👩‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=180&section=header&text=BUILD.%20BREAK.%20FIX.%20REPEAT.&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
 
-I'm a **Full Stack Developer from Pakistan** focused on building modern, scalable, and user-friendly digital products.
-
-I work across the entire development lifecycle — from designing responsive interfaces and developing backend services to working with databases, APIs, authentication, deployment, and AI-powered features.
-
-* 🔭 Currently building **full-stack web applications**
-* 🌱 Exploring **AI, Data Science, Cloud & scalable system architecture**
-* 💻 Experienced in **Frontend, Backend, APIs, Databases & Deployment**
-* 🧩 Interested in solving real-world problems through software
-* 🚀 Building applications with a focus on **performance, scalability and maintainability**
-* 🤝 Open to collaborating on **Web Applications, SaaS Products & AI Projects**
-* 🧠 Continuously learning new technologies and development practices
-* ⚡ Fun fact: **I actually enjoy debugging.**
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools
+<div align="center">
 
-### Frontend Development
+### `01 / WHO AM I`
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/></a>
-<a href="https://www.w3.org/Style/CSS/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/></a>
-<a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/></a>
-<a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45" alt="Next.js"/></a>
-<a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45" alt="Redux"/></a>
-<a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/></a>
-<a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" alt="Bootstrap"/></a>
-</p>
+</div>
 
-### Backend Development
+```text
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   I'm Zainab — a Full Stack Developer who turns ideas into         │
+│   functional, scalable and meaningful digital products.            │
+│                                                                     │
+│   I don't just build interfaces.                                   │
+│   I build the systems behind them.                                 │
+│                                                                     │
+│   Frontend → Backend → Database → API → Deployment → AI             │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
-<p align="left">
-<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/></a>
-<a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/></a>
-<a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/></a>
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/></a>
-</p>
+I enjoy taking an idea from **“What if we built this?”** to a working product.
 
-### Databases & Data
+My work spans modern frontend development, backend engineering, databases, APIs, cloud deployment, and AI-powered applications.
 
-<p align="left">
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/></a>
-<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/></a>
-<a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" alt="Firebase"/></a>
-<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/></a>
-</p>
-
-### Development Tools
-
-<p align="left">
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/></a>
-<a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/></a>
-<a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/></a>
-<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/></a>
-<a href="https://webpack.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" width="45" height="45" alt="Webpack"/></a>
-</p>
+> **Think in systems. Build with purpose. Ship with confidence.**
 
 ---
 
-## 🚀 What I Do
+<div align="center">
 
-* 🌐 **Full Stack Web Development**
-* 🎨 **Responsive & Modern UI Development**
-* ⚙️ **Backend & REST API Development**
-* 🔐 **Authentication & Authorization**
-* 🗄️ **Database Design & Integration**
-* 🤖 **AI-Powered Application Development**
-* ☁️ **Cloud & Application Deployment**
-* 📈 **Performance & Scalability**
-* 🔧 **API Integration & Third-Party Services**
+### `02 / THE STACK`
 
----
+### I DON'T BELONG TO ONE STACK.
 
-## 🎯 Current Focus
+### I BUILD WITH WHAT THE PROBLEM REQUIRES.
 
-I'm currently expanding my expertise across the full software development lifecycle, with a focus on:
+</div>
 
-**Full Stack Development → Backend Architecture → Cloud → AI → Scalable Systems**
+<br>
 
-I'm particularly interested in building applications that combine strong engineering foundations with practical AI capabilities.
+**FRONTEND**
 
----
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Redux` · `Tailwind CSS` · `Bootstrap`
 
-## 📂 Projects
+**BACKEND**
 
-I build projects ranging from business websites and e-commerce platforms to full-stack applications and AI-powered systems.
+`Node.js` · `Express.js` · `Python` · `PHP` · `REST APIs`
 
-Some areas I work in:
+**DATABASES**
 
-* Full Stack Web Applications
-* E-Commerce Platforms
-* SaaS Applications
-* REST APIs
-* AI-Powered Applications
-* Data & Automation Projects
-* Business & Productivity Applications
+`MongoDB` · `PostgreSQL` · `MySQL` · `Firebase`
 
-You can explore my projects on my **[Portfolio](https://vercel.com/zainis-projects-516c052d/portfolio-website)** and GitHub profile.
+**AI & DATA**
+
+`Python` · `Pandas` · `AI APIs` · `Data Processing` · `AI-Powered Applications`
+
+**TOOLS**
+
+`Git` · `GitHub` · `Postman` · `Figma` · `Webpack` · `VS Code`
 
 ---
 
-## 📝 Writing
+<div align="center">
 
-I occasionally share my development journey, technical learning, and experiences on Medium.
+### `03 / WHAT I BUILD`
 
-**[Read my articles on Medium](https://medium.com/@saaaaadiiii6776)**
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 WEB APPLICATIONS
+
+Modern, responsive applications designed around real user needs.
+
+</td>
+
+<td width="50%">
+
+### ⚙️ BACKEND SYSTEMS
+
+APIs, authentication, business logic and database-driven systems.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛒 E-COMMERCE
+
+Complete digital commerce experiences from UI to backend.
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI APPLICATIONS
+
+Intelligent features integrated into practical software products.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☁️ DEPLOYMENT
+
+Taking applications from localhost to production.
+
+</td>
+
+<td width="50%">
+
+### 📊 DATA
+
+Working with data, processing pipelines and data-driven applications.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Connect With Me
+<div align="center">
 
-<p align="left">
-<a href="https://x.com/ZainabMurtaza09" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="35" height="35" alt="X"/>
+### `04 / CURRENTLY BUILDING`
+
+</div>
+
+```text
+                    ┌──────────────────────┐
+                    │     FULL STACK       │
+                    │     DEVELOPMENT      │
+                    └──────────┬───────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              │                │                │
+              ▼                ▼                ▼
+        ┌──────────┐     ┌──────────┐     ┌──────────┐
+        │ BACKEND  │     │   AI     │     │  CLOUD   │
+        │ SYSTEMS  │     │  APPS    │     │  DEPLOY  │
+        └────┬─────┘     └────┬─────┘     └────┬─────┘
+             │                │                │
+             └────────────────┼────────────────┘
+                              ▼
+                     ┌────────────────┐
+                     │  REAL-WORLD    │
+                     │    PRODUCTS    │
+                     └────────────────┘
+```
+
+Currently exploring deeper into:
+
+* Scalable backend architecture
+* Advanced full-stack development
+* AI-powered applications
+* Data Science
+* Cloud technologies
+* System design
+* Performance optimization
+
+---
+
+<div align="center">
+
+### `05 / ENGINEERING MINDSET`
+
+</div>
+
+```javascript
+const developer = {
+    mindset: [
+        "Understand the problem",
+        "Design the solution",
+        "Build the system",
+        "Test the edge cases",
+        "Ship the product",
+        "Learn from the failures"
+    ],
+
+    philosophy:
+        "Good software solves problems. Great software solves them well."
+};
+```
+
+---
+
+<div align="center">
+
+### `06 / SELECTED WORK`
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🛍️
+
+**E-COMMERCE**
+
+Full-stack shopping experiences with modern UI, APIs and database integration.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖
+
+**AI SYSTEMS**
+
+Applications combining traditional software engineering with AI capabilities.
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚡
+
+**WEB PLATFORMS**
+
+Scalable web applications designed for real-world use cases.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+**→ Explore my projects**
+
+### [PORTFOLIO](https://vercel.com/zainis-projects-516c052d/portfolio-website)
+
+</div>
+
+---
+
+<div align="center">
+
+### `07 / THE GITHUB`
+
+<img src="https://github-readme-stats.vercel.app/api?username=zainab&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainab&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="170">
+
+</div>
+
+---
+
+<div align="center">
+
+### `08 / BEYOND THE CODE`
+
+I'm not interested in writing code just to say I wrote code.
+
+I'm interested in understanding **why something should exist**,
+figuring out **how it should work**, and then building it.
+
+<br>
+
+**Curiosity → Experimentation → Engineering → Impact**
+
+</div>
+
+---
+
+<div align="center">
+
+### `09 / LET'S CONNECT`
+
+<a href="mailto:murzain123@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-murzain123%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=61554354705466" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="35" height="35" alt="Facebook"/>
+<a href="https://x.com/ZainabMurtaza09">
+<img src="https://img.shields.io/badge/X-FOLLOW-111827?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<a href="https://medium.com/@saaaaadiiii6776" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="35" height="35" alt="Medium"/>
+<a href="https://medium.com/@saaaaadiiii6776">
+<img src="https://img.shields.io/badge/MEDIUM-READ-111827?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-</p>
 
-📫 **Email:** `murzain123@gmail.com`
+<a href="https://www.facebook.com/profile.php?id=61554354705466">
+<img src="https://img.shields.io/badge/FACEBOOK-CONNECT-111827?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zainab&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainab&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zainab&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
+### `10 / ONE LAST THING`
 
----
+<br>
 
-<p align="center">
-<strong>Building digital products from frontend to backend.</strong>
-</p>
+**I don't chase technologies.**
 
-<p align="center">
-<i>Learn • Build • Solve • Scale 🚀</i>
-</p>
+**I chase better ways to solve problems.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=120&section=footer" />
+
+</div>
