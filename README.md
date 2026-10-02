@@ -1,110 +1,123 @@
-<h1 align="center">Zainab</h1>
-<h3 align="center">Full Stack Developer · MERN Stack · Pakistan</h3>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<p align="center">
-  Building scalable, user-focused web applications with MongoDB, Express, React and Node.js.<br/>
-  Currently expanding into AI and Data Science.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24c6dc&height=260&section=header&text=Zainab&fontSize=80&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Pakistan&descSize=22&descAlignY=65" width="100%" alt="header"/>
 
-<p align="center">
-  <a href="https://vercel.com/zainis-projects-516c052d/portfolio-website"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:murzain123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://medium.com/@saaaaadiiii6776"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="https://x.com/ZainabMurtaza09"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.facebook.com/profile.php?id=61554354705466"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=700&lines=Building+scalable+MERN+apps+%F0%9F%9A%80;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Learning+AI+%26+Data+Science+%F0%9F%A7%A0;Turning+ideas+into+products+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zainab&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=zainab&label=Profile%20Views&color=302b63&style=for-the-badge" alt="views"/>
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-24c6dc?style=for-the-badge&logo=handshake&logoColor=white" alt="open"/>
+<img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-8A2BE2?style=for-the-badge" alt="status"/>
 
-## 👩‍💻 About Me
+<br/><br/>
 
-I'm a full stack developer who enjoys turning ideas into polished, production-ready web applications. I work across the entire stack, from designing database schemas and REST APIs to crafting responsive, accessible interfaces.
+<a href="https://vercel.com/zainis-projects-516c052d/portfolio-website"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-0f0c29?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:murzain123@gmail.com"><img src="https://img.shields.io/badge/📫_EMAIL-302b63?style=for-the-badge&logoColor=white" alt="Email"/></a>
+<a href="https://medium.com/@saaaaadiiii6776"><img src="https://img.shields.io/badge/✍️_MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://x.com/ZainabMurtaza09"><img src="https://img.shields.io/badge/🐦_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://www.facebook.com/profile.php?id=61554354705466"><img src="https://img.shields.io/badge/📘_FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
-| | |
-|---|---|
-| 🔭 **Currently working on** | MERN stack projects |
-| 🌱 **Currently learning** | AI and Data Science |
-| 👯 **Open to collaborate on** | Web applications |
-| 🤝 **Looking for help with** | Backend scaling |
-| 💬 **Ask me about** | MongoDB, React |
-| 📝 **Writing** | Regular articles on [Medium](https://medium.com/@saaaaadiiii6776) |
-| ⚡ **Fun fact** | Debugging is fun |
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## 🛠️ Tech Stack
+## 👩‍💻 &nbsp;About Me
 
-**Frontend**
+```js
+const zainab = {
+  role: "Full Stack Developer",
+  stack: ["MongoDB", "Express", "React", "Node.js"],
+  location: "Pakistan 🇵🇰",
+  currentlyBuilding: "MERN Projects",
+  currentlyLearning: ["AI", "Data Science"],
+  lookingToCollaborateOn: "Web Apps",
+  lookingForHelpWith: "Backend Scaling",
+  askMeAbout: ["MongoDB", "React"],
+  funFact: "Debugging is fun 🐛➡️✅",
+};
+```
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Materialize](https://img.shields.io/badge/Materialize-EE6E73?style=flat-square&logo=materialdesign&logoColor=white)
+> 💡 *I love turning ideas into fast, polished, production-ready web apps, from database design and APIs to pixel-perfect UI.*
 
-**Backend & Databases**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+## 🛠️ &nbsp;Tech Arsenal
 
-**Languages & Data**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap&theme=dark" alt="frontend"/>
 
-**Tools & Workflow**
+**Backend & Databases**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase&theme=dark" alt="backend"/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VuePress](https://img.shields.io/badge/VuePress-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+**Languages & Data**<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,pandas&theme=dark" alt="languages"/>
 
----
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,webpack,figma,vercel&theme=dark" alt="tools"/>
 
-## 🚀 Featured Projects
+</div>
 
-Explore my full collection of work in the **[Portfolio →](https://vercel.com/zainis-projects-516c052d/portfolio-website)**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=zainab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=8A2BE2&include_all_commits=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc" alt="top langs"/>
+
+<img src="https://streak-stats.demolab.com?user=zainab&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=8A2BE2&currStreakLabel=24c6dc" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainab&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=24c6dc&line=8A2BE2&point=ffffff&area=true" alt="activity graph" width="100%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+
+<a href="https://vercel.com/zainis-projects-516c052d/portfolio-website"><img src="https://img.shields.io/badge/👉_VIEW_ALL_PROJECTS_IN_MY_PORTFOLIO-24c6dc?style=for-the-badge&labelColor=0f0c29" alt="projects"/></a>
+
+</div>
 
 <!--
-Add your best 3 projects here, for example:
+Add your top projects as cards, for example:
 
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| **Project Name** | One-line description of what it does and the problem it solves | React, Node.js, MongoDB | [Live](#) · [Code](#) |
+<a href="YOUR_REPO_LINK">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zainab&repo=YOUR_REPO&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc" />
+</a>
 -->
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## 📊 GitHub Stats
+## 🏆 &nbsp;Trophies
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zainab&show_icons=true&locale=en&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainab&layout=compact&locale=en&hide_border=true" alt="Top languages"/>
-</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=zainab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies"/>
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## 🤝 Let's Connect
+## 🤝 &nbsp;Let's Build Something Together
 
-I'm always happy to talk about web development, collaborations, or backend scaling challenges.
+<div align="center">
 
-📫 **Email:** [murzain123@gmail.com](mailto:murzain123@gmail.com)
-✍️ **Articles:** [medium.com/@saaaaadiiii6776](https://medium.com/@saaaaadiiii6776)
+I'm open to **web app collaborations** and always keen to talk **backend scaling**, **MongoDB** and **React**.
 
-<p align="center"><i>Thanks for stopping by! ⭐ If you like my work, consider starring a repo.</i></p>
+<a href="mailto:murzain123@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-murzain123@gmail.com-24c6dc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" alt="contact"/></a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%E2%AD%90;Debugging+is+fun.+Let's+debug+the+world." alt="footer typing"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=140&section=footer" width="100%" alt="footer"/>
+
+</div>
