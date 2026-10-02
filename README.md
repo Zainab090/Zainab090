@@ -1,222 +1,96 @@
 <div align="center">
 
-# `ZAINAB.MURTAZA`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00D4FF&height=220&section=header&text=Hey%20there,%20I'm%20Zainab%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-### FULL STACK DEVELOPER · BUILDER · PROBLEM SOLVER
+# ✨ Full Stack Developer
 
-<br>
+### `I turn ideas → into interfaces → into systems → into products.`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=180&section=header&text=BUILD.%20BREAK.%20FIX.%20REPEAT.&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
+<br/>
+
+<a href="https://vercel.com/zainis-projects-516c052d/portfolio-website">
+<img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-7F00FF?style=for-the-badge&labelColor=111827" />
+</a>
+&nbsp;
+<a href="mailto:murzain123@gmail.com">
+<img src="https://img.shields.io/badge/💌%20LET'S%20TALK-00BFFF?style=for-the-badge&labelColor=111827" />
+</a>
 
 </div>
 
 ---
 
-<div align="center">
+## 🌟 A Little About Me
 
-### `01 / WHO AM I`
+Hey! I'm **Zainab**, a Full Stack Developer from Pakistan who genuinely enjoys turning ideas into working software.
 
-</div>
+I like being involved in the **whole journey** — from the first UI screen to the database behind it, from API design to deployment, and increasingly from traditional applications to **AI-powered experiences**.
 
 ```text
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   I'm Zainab — a Full Stack Developer who turns ideas into         │
-│   functional, scalable and meaningful digital products.            │
-│                                                                     │
-│   I don't just build interfaces.                                   │
-│   I build the systems behind them.                                 │
-│                                                                     │
-│   Frontend → Backend → Database → API → Deployment → AI             │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+💡 Idea
+   ↓
+🎨 Design
+   ↓
+⚛️ Frontend
+   ↓
+⚙️ Backend
+   ↓
+🗄️ Database
+   ↓
+🤖 Intelligence
+   ↓
+☁️ Deployment
+   ↓
+🚀 Product
 ```
 
-I enjoy taking an idea from **“What if we built this?”** to a working product.
-
-My work spans modern frontend development, backend engineering, databases, APIs, cloud deployment, and AI-powered applications.
-
-> **Think in systems. Build with purpose. Ship with confidence.**
+> **I don't just want to write code. I want to build things people can actually use.**
 
 ---
 
+# 🧰 My Digital Toolbox
+
 <div align="center">
 
-### `02 / THE STACK`
+### 🎨 Frontend
 
-### I DON'T BELONG TO ONE STACK.
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
 
-### I BUILD WITH WHAT THE PROBLEM REQUIRES.
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,php" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
+
+### 🤖 AI & Data
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+`AI APIs` · `Data Processing` · `AI Applications` · `Pandas`
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,docker" />
 
 </div>
-
-<br>
-
-**FRONTEND**
-
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Redux` · `Tailwind CSS` · `Bootstrap`
-
-**BACKEND**
-
-`Node.js` · `Express.js` · `Python` · `PHP` · `REST APIs`
-
-**DATABASES**
-
-`MongoDB` · `PostgreSQL` · `MySQL` · `Firebase`
-
-**AI & DATA**
-
-`Python` · `Pandas` · `AI APIs` · `Data Processing` · `AI-Powered Applications`
-
-**TOOLS**
-
-`Git` · `GitHub` · `Postman` · `Figma` · `Webpack` · `VS Code`
 
 ---
 
-<div align="center">
-
-### `03 / WHAT I BUILD`
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 WEB APPLICATIONS
-
-Modern, responsive applications designed around real user needs.
-
-</td>
-
-<td width="50%">
-
-### ⚙️ BACKEND SYSTEMS
-
-APIs, authentication, business logic and database-driven systems.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🛒 E-COMMERCE
-
-Complete digital commerce experiences from UI to backend.
-
-</td>
-
-<td width="50%">
-
-### 🤖 AI APPLICATIONS
-
-Intelligent features integrated into practical software products.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ☁️ DEPLOYMENT
-
-Taking applications from localhost to production.
-
-</td>
-
-<td width="50%">
-
-### 📊 DATA
-
-Working with data, processing pipelines and data-driven applications.
-
-</td>
-</tr>
-</table>
-
----
+# 🚀 What I'm Building
 
 <div align="center">
-
-### `04 / CURRENTLY BUILDING`
-
-</div>
-
-```text
-                    ┌──────────────────────┐
-                    │     FULL STACK       │
-                    │     DEVELOPMENT      │
-                    └──────────┬───────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              │                │                │
-              ▼                ▼                ▼
-        ┌──────────┐     ┌──────────┐     ┌──────────┐
-        │ BACKEND  │     │   AI     │     │  CLOUD   │
-        │ SYSTEMS  │     │  APPS    │     │  DEPLOY  │
-        └────┬─────┘     └────┬─────┘     └────┬─────┘
-             │                │                │
-             └────────────────┼────────────────┘
-                              ▼
-                     ┌────────────────┐
-                     │  REAL-WORLD    │
-                     │    PRODUCTS    │
-                     └────────────────┘
-```
-
-Currently exploring deeper into:
-
-* Scalable backend architecture
-* Advanced full-stack development
-* AI-powered applications
-* Data Science
-* Cloud technologies
-* System design
-* Performance optimization
-
----
-
-<div align="center">
-
-### `05 / ENGINEERING MINDSET`
-
-</div>
-
-```javascript
-const developer = {
-    mindset: [
-        "Understand the problem",
-        "Design the solution",
-        "Build the system",
-        "Test the edge cases",
-        "Ship the product",
-        "Learn from the failures"
-    ],
-
-    philosophy:
-        "Good software solves problems. Great software solves them well."
-};
-```
-
----
-
-<div align="center">
-
-### `06 / SELECTED WORK`
-
-</div>
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-### 🛍️
+### 🌐
 
-**E-COMMERCE**
+## Web Apps
 
-Full-stack shopping experiences with modern UI, APIs and database integration.
+Modern, responsive and production-focused applications.
 
 </td>
 
@@ -224,83 +98,153 @@ Full-stack shopping experiences with modern UI, APIs and database integration.
 
 ### 🤖
 
-**AI SYSTEMS**
+## AI Apps
 
-Applications combining traditional software engineering with AI capabilities.
+Bringing useful AI capabilities into real products.
 
 </td>
 
 <td align="center" width="33%">
 
-### ⚡
+### ⚙️
 
-**WEB PLATFORMS**
+## Backend Systems
 
-Scalable web applications designed for real-world use cases.
+APIs, authentication, databases and business logic.
 
 </td>
 </tr>
 </table>
 
-<br>
+</div>
+
+---
+
+# 🔥 Currently In My Lab
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   🧠 LEARNING                                                │
+│                                                              │
+│   AI • Data Science • System Design • Cloud                  │
+│                                                              │
+│   ████████████████████████████████████████░░░░░░  85%       │
+│                                                              │
+│   🚧 BUILDING                                                │
+│                                                              │
+│   Full Stack Applications • AI Features • SaaS Ideas        │
+│                                                              │
+│   ██████████████████████████████████░░░░░░░░░░  72%         │
+│                                                              │
+│   ☕ DEBUGGING                                                │
+│                                                              │
+│   ████████████████████████████████████████████  100%        │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+---
+
+# 🧩 How I Think
+
+I enjoy solving problems that sit somewhere between **design, logic and engineering**.
+
+```javascript
+const myApproach = {
+    curiosity: "Ask why",
+    strategy: "Understand before building",
+    development: "Build → test → improve",
+    debugging: "Find the root cause",
+    learning: "Never stop experimenting",
+    goal: "Create useful software"
+};
+```
+
+---
+
+# 💻 Things I Love Building
 
 <div align="center">
 
-**→ Explore my projects**
-
-### [PORTFOLIO](https://vercel.com/zainis-projects-516c052d/portfolio-website)
+|       🛒 E-Commerce       |  🤖 AI Applications  |    🌐 Web Platforms   |
+| :-----------------------: | :------------------: | :-------------------: |
+| Full shopping experiences | Intelligent features | Business applications |
+|      APIs & databases     |    AI integrations   |       Dashboards      |
+|       Authentication      |    Data processing   |     SaaS concepts     |
 
 </div>
 
 ---
 
+# 🎯 My Current Mission
+
+### Become the kind of developer who can take a product from:
+
+**“We have an idea.”**
+
+⬇️
+
+**“Let's design it.”**
+
+⬇️
+
+**“Let's build it.”**
+
+⬇️
+
+**“Let's deploy it.”**
+
+⬇️
+
+**“People are actually using it.” 🚀**
+
+---
+
+# 📊 GitHub Activity
+
 <div align="center">
 
-### `07 / THE GITHUB`
+<img src="https://github-readme-stats.vercel.app/api?username=zainab&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=zainab&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainab&layout=compact&hide_border=true&langs_count=8&theme=radical" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainab&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="170">
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zainab&theme=radical&hide_border=true" />
 
 </div>
 
 ---
 
+# 🏆 GitHub Trophies
+
 <div align="center">
 
-### `08 / BEYOND THE CODE`
-
-I'm not interested in writing code just to say I wrote code.
-
-I'm interested in understanding **why something should exist**,
-figuring out **how it should work**, and then building it.
-
-<br>
-
-**Curiosity → Experimentation → Engineering → Impact**
+<img src="https://github-profile-trophy.vercel.app/?username=zainab&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
 
 </div>
 
 ---
 
+# 🌍 Find Me Around The Web
+
 <div align="center">
 
-### `09 / LET'S CONNECT`
-
-<a href="mailto:murzain123@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-murzain123%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://x.com/ZainabMurtaza09">
-<img src="https://img.shields.io/badge/X-FOLLOW-111827?style=for-the-badge&logo=x&logoColor=white" />
+<a href="https://vercel.com/zainis-projects-516c052d/portfolio-website">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-7F00FF?style=for-the-badge" />
 </a>
 
 <a href="https://medium.com/@saaaaadiiii6776">
-<img src="https://img.shields.io/badge/MEDIUM-READ-111827?style=for-the-badge&logo=medium&logoColor=white" />
+<img src="https://img.shields.io/badge/✍️%20Medium-Read-00AB6C?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=61554354705466">
-<img src="https://img.shields.io/badge/FACEBOOK-CONNECT-111827?style=for-the-badge&logo=facebook&logoColor=white" />
+<a href="https://x.com/ZainabMurtaza09">
+<img src="https://img.shields.io/badge/𝕏-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="mailto:murzain123@gmail.com">
+<img src="https://img.shields.io/badge/💌-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -309,16 +253,36 @@ figuring out **how it should work**, and then building it.
 
 <div align="center">
 
-### `10 / ONE LAST THING`
+## 💭 A Developer's Life
 
-<br>
+```text
+   ☕ + 💻 + 🧠 + 🐛
+          ↓
+       "Why?"
+          ↓
+      🔍 Debugging
+          ↓
+       💡 "AHA!"
+          ↓
+       🚀 SHIPPED
+```
 
-**I don't chase technologies.**
+### And then...
 
-**I chase better ways to solve problems.**
+`npm install`
 
-<br>
+### breaks everything again. 😭
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=120&section=footer" />
+---
+
+<br/>
+
+### ✨ Thanks for stopping by!
+
+**If you're building something interesting, let's build it together.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00D4FF&height=140&section=footer" width="100%"/>
 
 </div>
